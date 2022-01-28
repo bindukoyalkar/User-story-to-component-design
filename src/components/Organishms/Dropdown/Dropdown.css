@@ -1,0 +1,12 @@
+.logo{position: absolute;
+    padding-left:'0.5%';
+    padding-Top:'0.5%'
+  }
+
+.arrowUp{
+      height:6.5px;
+      width:10.6px;
+    color: black;
+    position: absolute;
+    top:40%;
+  }
